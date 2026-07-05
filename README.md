@@ -41,3 +41,4 @@ O sistema vai abrir em: http://localhost:3000
 1. Acesse http://localhost:3000
 2. Faça login com email e senha cadastrados
 3. Navegue pelas páginas: Produtos, Usuários e Promoções
+"# Super-Mercado-novo" 
